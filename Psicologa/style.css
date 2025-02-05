@@ -84,5 +84,5 @@ div > p{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    margin-left: 1vw;
+    margin-left: 1.5vw;
 }
