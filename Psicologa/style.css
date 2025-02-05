@@ -13,8 +13,8 @@ body{
 }
 nav{
     background-color: #004FFF;
-    padding: 30px;
-    font-size: 1.2em;
+    padding: 35px;
+    font-size: min(3vw), max(10vw);
 }
 span{
     font-size: 1.2em;
