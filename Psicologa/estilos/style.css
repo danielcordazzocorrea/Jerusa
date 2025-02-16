@@ -155,3 +155,7 @@ section#mim{
     flex-flow: column wrap;
     align-items: center;
 }
+ul{
+    font-weight: bolder;
+    font-size: 1.2em;
+}
