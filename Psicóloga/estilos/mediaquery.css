@@ -1,4 +1,13 @@
 @charset "UTF-8";
+@media screen and (max-width:640px){
+    div#whatapp{
+        font-size: 1em;
+    }
+    #imagemmae{
+        height: 125px;
+        width: 125px;
+    }
+}
 @media screen and (min-width: 768px){
     div#whatsapp{
         font-size: 1.4em;
