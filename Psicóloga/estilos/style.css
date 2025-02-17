@@ -110,10 +110,4 @@ ul{
     flex-flow: row wrap;
     justify-content: center;
 }
-section#emdr{
-    position: relative;
-    height: 500px;
-}
-iframe{
-    position: absolute;
-}
+
