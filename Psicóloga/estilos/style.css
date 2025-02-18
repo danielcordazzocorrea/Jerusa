@@ -113,8 +113,12 @@ ul{
 }
 #emdr{
     height: 750px;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
 }
 iframe{
-    width: 300px;
+    width: 3000vw;
+    margin: 10px;
     height: 200px;
 }
