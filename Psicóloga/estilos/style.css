@@ -119,4 +119,5 @@ ul{
 iframe{
     height: 200px;
     margin-bottom: 10px;
+    flex-basis: 200px;
 }
