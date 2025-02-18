@@ -118,7 +118,6 @@ ul{
     flex-flow: row wrap;
 }
 iframe{
-    width: 3000vw;
     margin: 10px;
     height: 200px;
 }
